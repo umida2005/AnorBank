@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_map_api_key">AIzaSyCekM98RKgAWnsRR7LNud6yMGFKYdQZsUE</string>
+    <string name="app_name">AnorBank</string>
+    <string name="welcoming">Welcome to</string>
+    <string name="language_option">Select the application language</string>
+    <string name="poppins_font">poppins.ttf</string>
+    <string name="anor">Anorbank</string>
+    <string name="auth_title">Authorization</string>
+    <string name="auth_text">Enter your phone number and password to log in to your existing account</string>
+    <string name="auth_policy">By continuing, I confirm that I have read and agree to the Universal Agreement and Privacy Policy</string>
+    <string name="verify_title">Verification</string>
+    <string name="verify_code">Enter SMS code</string>
+    <string name="keyword_title">Keyword</string>
+    <string name="keyword_text">Latin alphabet, from 6 to 12 characters.</string>
+    <string name="verify_text">Please enter the SMS code to confirm your phone number</string>
+
+
+
+    //all
+    <string name="all">All</string>
+    <string name="add_cards">ADD CARD</string>
+    <string name="add">ADD</string>
+
+    <string name="client">Become a Client</string>
+    <string name="sign_up">Sign Up?</string>
+
+    //add card
+    <string name="add_card_number">Enter card number</string>
+    <string name="add_card_expire">Expiration date</string>
+    <string name="add_card_name">Card name</string>
+    <string name="add_card_anor">ANORBANK Salary Card</string>
+
+    <string name="add_card_top">Adding Card</string>
+
+    //tabs
+    <string name="tab_home">Home</string>
+    <string name="tab_cards">Cards</string>
+    <string name="tab_payment">Payment</string>
+    <string name="tab_monitoring">Monitoring</string>
+    <string name="tab_service">All Services</string>
+
+
+
+    //finger
+    <string name="fin_title">Fingerprint</string>
+    <string name="fin_txt">Add your fingerprint to speed up the login and logout process.</string>
+    <string name="fin_step">Skip this step -></string>
+    <string name="fin_install">Install-></string>
+
+    //button
+    <string name="btn_continue">Continue</string>
+    <string name="btn_add_home">Add New Home</string>
+
+
+    //reg
+    <string name="reg_title">Registration</string>
+    <string name="reg_name">First Name</string>
+    <string name="reg_surname">Last Name</string>
+    <string name="reg_password">Password</string>
+    <string name="reg_born">dd.mm.yy</string>
+    <string name="reg_gender">Gender</string>
+
+    //messages
+    <string name="msg_sms">Code will arrive in:</string>
+    <string name="msg_txt">Enter SMS code</string>
+
+    // pin
+    <string name="pin_first">Create a PIN</string>
+    <string name="pin_second">Repeat PIN</string>
+    <string name="pin_regular">Enter PIN</string>
+
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    //cards
+    <string name="card_adds">Adding Card</string>
+    <string name="card_number">Enter card number</string>
+    <string name="card_expire">Expiration date</string>
+    <string name="card_title">Card name</string>
+    <string name="card_anor">ANORBANK Salary Card</string>
+
+
+    //Services
+    <string name="service_all">All Services</string>
+    <string name="service_gov">Online Government Services</string>
+    <string name="service_gov_txt">Here you can get certificates or services</string>
+    <string name="service_strahovaniye">Insurance</string>
+    <string name="new_york">New York</string>
+
+    //home screen
+    <string name="home_balance">Total Balance</string>
+    <string name="home_item1">Cross Conversion</string>
+    <string name="home_item2">Transfer to Card</string>
+    <string name="home_item3">AnorCheck</string>
+    <string name="home_item4">Mobile Payment</string>
+    <string name="home_item5">QR Payment</string>
+    <string name="home_item6">Currency Exchange</string>
+    <string name="home_item7">Payment by Details</string>
+    <string name="home_item8">Fund Request</string>
+    <string name="home_item9">Installment Payment</string>
+    <string name="home_item10">Loan Payment</string>
+    <string name="home_item11">International</string>
+    <string name="home_item12">Humo Pay</string>
+    <string name="home_item13">Royal repayment</string>
+
+
+
+    //service screen
+    <string name="service_govs">Online Government Services</string>
+    <string name="service_govs2">Here you can obtain certificates or services from the "Unified Window"</string>
+    <string name="service_insurance">Company Insurance</string>
+    <string name="service_insurance2">Order and pay for insurance policy</string>
+    //service items
+    <string name="ser_kross">Cross Conversion</string>
+    <string name="ser_order">Order a Card</string>
+    <string name="ser_vklad">Deposits</string>
+    <string name="ser_rassrochka">Installment</string>
+    <string name="ser_credits">Loans</string>
+    <string name="ser_myhome">My Home</string>
+    <string name="ser_valyuta">Currency Exchange</string>
+    <string name="ser_perevodi">International Transfers</string>
+    <string name="ser_insurance">Insurance</string>
+    <string name="ser_schet">Account</string>
+
+    //Expandable texts
+    <string name="ex_cash">Cashback</string>
+    <string name="ex_cash_nakopleno">Accumulated</string>
+    <string name="ex_untill">until</string>
+
+
+    <string name="ex_rassrochki_txt">ANOR Installment Card</string>
+    <string name="ex_rassrochki_t1">Without interest and overpayments</string>
+    <string name="ex_rassrochki_t2">Limit up to 50 million UZS</string>
+    <string name="ex_rassrochki_t3">Purchases from 4000+ partners</string>
+
+    <string name="ex_hint">Hints</string>
+    <string name="ex_cards">My Cards</string>
+    <string name="ex_saved">Saved</string>
+    <string name="ex_rassrochka">Installment</string>
+    <string name="ex_creditss">Loans</string>
+    <string name="ex_vklad">Deposits</string>
+    <string name="ex_myhome">My Home</string>
+    <string name="ex_valyuta">Currency Exchange</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    // pincode demo
+    <string name="pins_wrong">Wrong pin, Please retry again!</string>
+    <string name="pins_enter">Enter PIN code</string>
+
+
+
+    // profile screen
+    <string name="prof_name">Profile</string>
+    <string name="prof_client">Become a bank client</string>
+    <string name="prof_client_data">Personal data</string>
+    <string name="prof_theme">App Theme</string>
+    <string name="prof_language">Language</string>
+    <string name="prof_security">Security</string>
+    <string name="prof_agreement">Universal Agreement</string>
+    <string name="prof_prpl">Privacy Policy </string>
+
+
+
+    // my card screen in bottom
+    <string name="card_my">My cards</string>
+
+    //payment search
+    <string name="pays_search">Search ...</string>
+    <string name="pays_operations">Action</string>
+    <string name="pays_all">All</string>
+    <string name="pays_cash">Cashback</string>
+    <string name="pays_">Installments</string>
+    <string name="pays_extra">Partner categories</string>
+
+
+    //transaction
+    <string name="transaction_top">Transfer money to card</string>
+    <string name="transaction_receiving">Enter the recipients card number</string>
+    <string name="transaction_among">Among my cards</string>
+    <string name="transaction_saved">Saved</string>
+    <string name="transaction_amount">Transfer amount</string>
+
+    <string name="transaction_amounts">Amount</string>
+    <string name="transaction_comission">Comission</string>
+    <string name="transaction_total">Total for payment</string>
+
+    //monitoring
+    <string name="monitor_title">Monitoring</string>
+    <string name="monitor_plus">Receipt</string>
+    <string name="monitor_minus">Consumption</string>
+
+
+    //card screen
+    <string name="cards_cards">Cards</string>
+    <string name="cards_all">All</string>
+    <string name="cards_debet">Debit</string>
+    <string name="cards_transport">Transport</string>
+    <string name="cards_rassrochka">Installment</string>
+    <string name="cards_ordering_card">Order a card</string>
+    <string name="carda_packet"> Wallet</string>
+
+    <string name="carda_sms_wallet">You do not have a wallet yet</string>
+    <string name="carda_sms">You have no added cards yet</string>
+
+    //success
+    <string name="success_success">TRANSFER SUCCESSFULLY EXECUTED</string>
+    <string name="success_sender_name">Sender name</string>
+    <string name="success_sender_pan">Sender number</string>
+    <string name="success_receiver_name">Recipient name</string>
+    <string name="success_receiver_pan">Recipient number</string>
+    <string name="success_valyuta">Amount UZS</string>
+    <string name="success_commission">Commission</string>
+    <string name="success_amount">Payment amount</string>
+</resources>

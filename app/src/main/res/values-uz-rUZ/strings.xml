@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_map_api_key">AIzaSyCekM98RKgAWnsRR7LNud6yMGFKYdQZsUE</string>
+    <string name="app_name">AnorBank</string>
+    <string name="welcoming">Xush kelibsiz</string>
+    <string name="language_option">Ilovani tili tanlang </string>
+    <string name="poppins_font">poppins.ttf</string>
+    <string name="anor">Anorbank</string>
+    <string name="auth_title">Avtorizatsiya</string>
+    <string name="auth_text">Telefon raqamingiz va parolingizni kiriting,\n mavjud akkauntingizga kirish uchun</string>
+    <string name="auth_policy">Davom etish orqali, men Universal shartnomin va Maxfiylik siyosatiga \ntutqazib yurishimni tasdiqlayman</string>
+    <string name="verify_title">Tasdiqlash</string>
+    <string name="verify_code">SMS-kodni kiriting</string>
+    <string name="keyword_title">Kalit soz</string>
+    <string name="keyword_text">Lotin alifbosidan, 6 dan 12 belgacha.</string>
+    <string name="verify_text">Iltimos, telefon raqamingizni tasdiqlash uchun SMS-kodni kiriting</string>
+
+
+    //all
+    //sign up
+    <string name="all">Hammasi</string>
+    <string name="add_cards">KARTA QOSHISH</string>
+    <string name="add">QOHISH</string>
+    //client
+
+    <string name="client">Mijoz bolish</string>
+
+
+    <string name="sign_up">Royxatdan otish?</string>
+
+
+    //add card
+    <string name="add_card_number">Kartani raqamini kiriting</string>
+    <string name="add_card_expire">Amal qilish muddati</string>
+    <string name="add_card_name">Karta nomi</string>
+    <string name="add_card_anor">ANORBANK Ish haqqi kartasi</string>
+
+    <string name="add_card_top">Karta qoshish</string>
+
+    //tabs
+    <string name="tab_home">Bosh sahifa</string>
+    <string name="tab_cards">Kartalar</string>
+    <string name="tab_payment">Tolov</string>
+    <string name="tab_monitoring">Monitoring</string>
+    <string name="tab_service">Barcha xizmatlar</string>
+
+
+    //finger
+    <string name="fin_title">Barmoq izi</string>
+    <string name="fin_txt">Kirish va chiqish jarayonini tezlashtirish uchun barmoq izingizni qoshing.</string>
+    <string name="fin_step">Ushbu qadamni otkazib yuborish -></string>
+    <string name="fin_install">Ornatish-></string>
+
+    //button
+    <string name="btn_continue">Davom etish</string>
+    <string name="btn_add_home">Yangi uy qoshish</string>
+
+
+    //reg
+    <string name="reg_title">Royxatdan otish</string>
+    <string name="reg_name">Ism</string>
+    <string name="reg_surname">Familiya</string>
+    <string name="reg_password">Parol</string>
+    <string name="reg_born">k.k.yyyy</string>
+    <string name="reg_gender">Jins</string>
+
+
+    //messages
+    <string name="msg_sms">Kod 10 daqiqa ichida keladi:</string>
+    <string name="msg_txt">SMS-kodni kiriting</string>
+
+    // pin
+    <string name="pin_first">PIN-kodni yarating</string>
+    <string name="pin_second">PIN-kodni takrorlang</string>
+    <string name="pin_regular">PIN-kodni kiriting</string>
+
+
+    //gender
+    <string name="male">Erkak</string>
+    <string name="female">Ayol</string>
+
+
+    //cards
+    <string name="card_adds">Karta qoshish</string>
+    <string name="card_number">Kartaning raqamini kiriting</string>
+    <string name="card_expire">Amal qilish muddati</string>
+    <string name="card_title">Karta nomi</string>
+    <string name="card_anor">ISH HAQQI KARTASI ANORBANK</string>
+
+
+    //Services
+    <string name="service_all">Barcha xizmatlar</string>
+    <string name="service_gov">Onlayn davlat xizmatlari</string>
+    <string name="service_gov_txt">Bu erda malumot yoki xizmatlarni olishingiz mumkin</string>
+    <string name="service_strahovaniye"></string>
+    <string name="new_york">Nyuyork</string>
+
+
+    //home screen
+    <string name="home_balance">Umumiy balans</string>
+    <string name="home_item1">Kross \n konvertatsiya</string>
+    <string name="home_item2">Kartaga otkazish\n</string>
+    <string name="home_item3">AnorCheck</string>
+    <string name="home_item4">Mobil tolov</string>
+    <string name="home_item5">QR tolov</string>
+    <string name="home_item6">Valyuta almashish</string>
+    <string name="home_item7">Rekvizitlar boyicha tolov</string>
+    <string name="home_item8">Mablag sorovi</string>
+    <string name="home_item9">Qimmatga olish tolovi</string>
+    <string name="home_item10">Kreditni tolash</string>
+    <string name="home_item11">Xalqaro</string>
+    <string name="home_item12">Humo Pay</string>
+    <string name="home_item13">Kreditga tolov</string>
+
+
+
+    //service screen
+    <string name="service_govs">Onlayn davlat xizmatlari</string>
+    <string name="service_govs2">Bu erda malumot yoki xizmatlarni olishingiz mumkin "Yagona oyna"</string>
+    <string name="service_insurance">Kompaniya sugurtasi</string>
+    <string name="service_insurance2">Sugurta polisini buyurtma va tolash</string>
+    //service items
+    <string name="ser_kross">Kross konvertatsiya</string>
+    <string name="ser_order">Kartani buyurtma bermoq</string>
+    <string name="ser_vklad">Depozitlar</string>
+    <string name="ser_rassrochka">Rassrochka</string>
+    <string name="ser_credits">Kreditlar</string>
+    <string name="ser_myhome">Mening uyim</string>
+    <string name="ser_valyuta">Valyuta almashish</string>
+    <string name="ser_perevodi">Xalqaro pul otkazmalari</string>
+    <string name="ser_insurance">Sugurta</string>
+    <string name="ser_schet">Hisob</string>
+
+
+    //Expandable texts
+
+    <string name="ex_cash">Keshbek</string>
+    <string name="ex_cash_nakopleno">Topilgan</string>
+    <string name="ex_untill">gacha</string>
+
+    <string name="ex_rassrochki_txt">ANOR tarmoq kartasi</string>
+    <string name="ex_rassrochki_t1">% va qoshimcha tolovlarsiz</string>
+    <string name="ex_rassrochki_t2">50 mln UZS gacha cheklangan limit</string>
+    <string name="ex_rassrochki_t3">4000+ sheriklardan xaridlar</string>
+
+
+    <string name="ex_hint">Yordam</string>
+    <string name="ex_cards">Mening kartalarim</string>
+    <string name="ex_saved">Saqlanganlar</string>
+    <string name="ex_rassrochka">Rassrochka</string>
+    <string name="ex_creditss">Kreditlar</string>
+    <string name="ex_vklad">Depozitlar</string>
+    <string name="ex_myhome">Mening uyim</string>
+    <string name="ex_valyuta">Valyuta kurslari</string>
+    <string name="appwidget_text">MISOL</string>
+    <string name="configure">Sozlash</string>
+    <string name="add_widget">Vidjet qoshish</string>
+    <string name="app_widget_description">Bu ilova vidjet tavsifi</string>
+
+    // pincode demo
+    <string name="pins_wrong">Xato PIN-kod, iltimos, qayta urinib koring!</string>
+    <string name="pins_enter">PIN-kodni kiriting</string>
+
+    //profile
+    <string name="prof_name">Profil</string>
+    <string name="prof_client">Bank xizmatchisiga aylaning</string>
+    <string name="prof_client_data">Shaxsiy malumotlar</string>
+    <string name="prof_theme">Ilova mavzusi</string>
+    <string name="prof_language">Til</string>
+    <string name="prof_security">Xavfsizlik</string>
+    <string name="prof_agreement">Universal shartnoma</string>
+    <string name="prof_prpl">Maxfiylik siyosati</string>
+
+
+
+    // my card screen in bottom
+    <string name="card_my">Kartalarim</string>
+
+    //payment search
+    <string name="pays_search">Qidiruv </string>
+    <string name="pays_operations">Tezkor amallar</string>
+    <string name="pays_all">Hammasi</string>
+    <string name="pays_cash">Cashback</string>
+    <string name="pays_">Tolovlar</string>
+    <string name="pays_extra">Hamkorlar toifasi</string>
+
+    //transaction
+    <string name="transaction_top">Kartaga otkazmalar</string>
+    <string name="transaction_receiving">Qabul qiluvchining karta raqamini kiriting</string>
+    <string name="transaction_among">Mening kartalarim orasida</string>
+    <string name="transaction_saved">Saqlanganlar</string>
+    <string name="transaction_amount">Otkazma miqdori</string>
+
+    <string name="transaction_amounts">Miqdor</string>
+    <string name="transaction_comission">Komissiya</string>
+    <string name="transaction_total">Tolov uchun jami</string>
+
+    //monitoring
+    <string name="monitor_title">Monitoring</string>
+    <string name="monitor_plus">Tushumlar</string>
+    <string name="monitor_minus">Xarajatlar</string>
+
+
+    //karta ekrani
+    <string name = "cards_cards">Kartalar</string>
+    <string name="cards_all">Hammasi</string>
+    <string name="cards_debet">Debet</string>
+    <string name = "cards_transport">Transport</string>
+    <string name="cards_rassrochka">Tolov</string>
+    <string name="cards_ordering_card">Kartaga buyurtma bering</string>
+    <string name="carda_packet">Karta buyurtma qilish</string>
+    <string name="carda_sms_wallet">Sizda hali hamyon mavjud emas</string>
+    <string name="carda_sms">Sizda hali qoshilgan kartalar mavjud emas</string>
+
+
+    //success
+    <string name="success_success">OTKAZMA MUVAFFAQIYATLI AMALGA OSHIRILDI</string>
+    <string name="success_sender_name">Yuboruvchi nomi</string>
+    <string name="success_sender_pan">Yuboruvchi raqami</string>
+    <string name="success_receiver_name">Qabul qiluvchining nomi</string>
+    <string name="success_receiver_pan">Qabul qiluvchining raqami</string>
+    <string name="success_valyuta">Summa UZS</string>
+    <string name="success_commission">Komissiya</string>
+    <string name="success_amount">Tolov miqdori</string>
+
+
+</resources>
